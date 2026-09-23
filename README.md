@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20there!%20I'm%20Albin%20Davis%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Quarkus%20%7C%20Spring%20Boot&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=220&section=header&text=Hey%20there!%20I'm%20Albin%20Davis%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Quarkus%20%7C%20Spring%20Boot&descAlignY=58&descAlign=50" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Backend+Engineer+%F0%9F%94%A5;Quarkus+%26+Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Microservices+%F0%9F%9A%80;Cloud-Native+%7C+REST+APIs+%7C+Clean+Code+%E2%9C%A8;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Backend+Engineer+%F0%9F%94%A5;Quarkus+%26+Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Microservices+%F0%9F%9A%80;Cloud-Native+%7C+REST+APIs+%7C+Clean+Code+%E2%9C%A8;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AlbinDavis&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AlbinDavis&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/AlbinDavis?style=for-the-badge&color=FB923C&label=FOLLOWERS&logo=github" />
+<img src="https://img.shields.io/github/followers/AlbinDavis?style=for-the-badge&color=EC4899&label=FOLLOWERS&logo=github" />
 
 </div>
 
@@ -74,12 +74,12 @@ public class AlbinDavis {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlbinDavis&show_icons=true&theme=sunset-gradient&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlbinDavis&theme=sunset-gradient&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=AlbinDavis&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AlbinDavis&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinDavis&layout=compact&theme=sunset-gradient&hide_border=true&langs_count=8" />
+<img width="50%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AlbinDavis&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -96,7 +96,7 @@ public class AlbinDavis {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbinDavis&bg_color=0d1117&color=F97316&line=FB923C&point=FDBA74&area=true&hide_border=true&custom_title=Albin's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbinDavis&bg_color=141321&color=A855F7&line=EC4899&point=F97316&area=true&hide_border=true&custom_title=Albin's%20Contribution%20Graph" />
 </div>
 
 ---
@@ -123,7 +123,7 @@ public class AlbinDavis {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" />
 
 **"First, solve the problem. Then, write the code."** ✨
 
